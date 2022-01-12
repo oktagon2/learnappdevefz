@@ -1,2 +1,3 @@
-# learnappdevefz
-Lerne Applikationsentwickler EFZ
+# Lerne Applikationsentwickler EFZ!
+z.B. bei der TKB
+
