@@ -10,10 +10,10 @@ BEACHTE:
 - Das Menu mit "Edit Breakpoint..." etc. wird angezeigt, wenn man mit der rechten Maustaste auf einen Breakpoint in der BREAKPOINTS View klickt.
 - Stoppe, sobald du beim Kapitel "Launch.json attributes" angekommen bist.
 
-# Using Extension GitLens
+## Using Extension GitLens
 to be done.
 
-# Using Version Control
+## Using Version Control
 Lies den User Guide auf folgendem [Link](https://code.visualstudio.com/docs/editor/versioncontrol). Probiere die beschriebenen Funktionen und Features, die nicht zu kompliziert sind, aus.
 
 BEACHTE:
